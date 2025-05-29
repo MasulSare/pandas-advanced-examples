@@ -92,7 +92,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your-username/pandas-advanced-examples](https://github.com/your-username/pandas-advanced-examples)
 
